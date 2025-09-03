@@ -11,11 +11,11 @@ It covers **user management, storage, automation, networking, services, and moni
 - Created and managed local users and groups
 - Configured password policies and permissions
 
-![System Update](./pictures/uptdate%20system.png)  
-![Users](./pictures/Users.png)  
-![Alice Permissions](./pictures/Alice%20Permissions.png)  
-![Home Files](./pictures/home%20files.png)  
-![Login Definitions](./pictures/login%20defs.png)  
+![System Update](./Pictures/uptdate%20system.png)  
+![Users](./Pictures/Users.png)  
+![Alice Permissions](./Pictures/Alice%20Permissions.png)  
+![Home Files](./Pictures/home%20files.png)  
+![Login Definitions](./Pictures/login%20defs.png)  
 
 ---
 
@@ -23,9 +23,9 @@ It covers **user management, storage, automation, networking, services, and moni
 - Added new disk and created standard partitions
 - Configured **Logical Volume Management (LVM)** for flexible storage
 
-![New Disk Added](./pictures/nvmedisk%20added.png)  
-![LVM Created](./pictures/Logical%20Volume%20Management%20created.png)  
-![LVM Alternative](./pictures/Logical_VOlume_Management_created.png)  
+![New Disk Added](./Pictures/nvmedisk%20added.png)  
+![LVM Created](./Pictures/Logical%20Volume%20Management%20created.png)  
+![LVM Alternative](./Pictures/Logical_VOlume_Management_created.png)  
 
 ---
 
@@ -33,14 +33,14 @@ It covers **user management, storage, automation, networking, services, and moni
 - Automated backups and health checks with Bash scripting
 - Scheduled tasks using `cron`
 
-![Backup Script](./pictures/backup_bash.png)  
-![Backup Test](./pictures/backup_test.png)  
-![Weekly Health Report](./pictures/bash_weekly_health_report.png)  
-![Weekly Report 2](./pictures/weekly_health_report2.png)  
-![Crontab Info](./pictures/crontab_info.png)  
-![Disk Free Info](./pictures/dfh_info.png)  
-![Disk Mount Status](./pictures/dms_test.png)  
-![Service Monitoring](./pictures/service_monitoring_bash.png)  
+![Backup Script](./Pictures/backup_bash.png)  
+![Backup Test](./Pictures/backup_test.png)  
+![Weekly Health Report](./Pictures/bash_weekly_health_report.png)  
+![Weekly Report 2](./Pictures/weekly_health_report2.png)  
+![Crontab Info](./Pictures/crontab_info.png)  
+![Disk Free Info](./Pictures/dfh_info.png)  
+![Disk Mount Status](./Pictures/dms_test.png)  
+![Service Monitoring](./Pictures/service_monitoring_bash.png)  
 
 ---
 
@@ -51,25 +51,25 @@ It covers **user management, storage, automation, networking, services, and moni
 - Configured **Samba** for Windows/Linux file sharing
 - Set up **DNS (BIND)** server
 
-![Firewall Rules](./pictures/firewalld_list_info.png)  
-![Apache Installed](./pictures/httpd%20installed.png)  
-![Apache Enabled](./pictures/httpd%20enabled-active.png)  
-![Apache Website](./pictures/httpd(apache)_website.png)  
-![Nginx Installed](./pictures/nginx%20installation.png)  
-![Nginx Enabled](./pictures/nginx%20enabled-active.png)  
-![Nginx Port Changed](./pictures/nginx%20port%20changed.png)  
-![Nginx Website](./pictures/nginx_website.png)  
-![NFS Setup](./pictures/NFS_setup.png)  
-![Samba Created](./pictures/samba_created.png)  
-![Samba Test](./pictures/samba_test.png)  
-![DNS Config](./pictures/named_config(DNS).png)  
+![Firewall Rules](./Pictures/firewalld_list_info.png)  
+![Apache Installed](./Pictures/httpd%20installed.png)  
+![Apache Enabled](./Pictures/httpd%20enabled-active.png)  
+![Apache Website](./Pictures/httpd(apache)_website.png)  
+![Nginx Installed](./Pictures/nginx%20installation.png)  
+![Nginx Enabled](./Pictures/nginx%20enabled-active.png)  
+![Nginx Port Changed](./Pictures/nginx%20port%20changed.png)  
+![Nginx Website](./Pictures/nginx_website.png)  
+![NFS Setup](./Pictures/NFS_setup.png)  
+![Samba Created](./Pictures/samba_created.png)  
+![Samba Test](./Pictures/samba_test.png)  
+![DNS Config](./Pictures/named_config(DNS).png)  
 
 ---
 
 ## 🔹 5. Monitoring & Security
 - Installed and configured **Nagios** for system and service monitoring
 
-![Nagios Setup](./pictures/nagios_setup.png)  
+![Nagios Setup](./Pictures/nagios_setup.png)  
 
 ---
 
